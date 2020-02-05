@@ -3,7 +3,7 @@ def karatsuba_multiplication(num1,num2):
     1. num1 and num2 are two numbers to be multiplied
     2. the function returns the result after multiplication
     """
-    if num1<10 or num2<10:
+    if num1<10 or num2<10: #for only single digit multiplication change the 'or' condition to an 'and' condition. 
         return num1*num2
     else:
         n=max(len(str(num1)),len(str(num2)))
