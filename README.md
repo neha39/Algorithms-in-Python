@@ -1,2 +1,3 @@
 # Algorithms-implementations
-This repository contains implementation of algorithms in python.
+This repository contains implementation of different algorithms in python.
+
